@@ -1,1 +1,2 @@
-# js_drum_kit
+# DRUM KIT
+## HAVE FUN!
